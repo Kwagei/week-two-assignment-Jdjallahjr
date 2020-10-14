@@ -1,0 +1,41 @@
+div{
+    border: 1px solid turquoise;
+    background: turquoise;
+}
+p{
+    border: 10px solid green;
+    background: green;
+    padding-bottom: 436px;
+    padding-left: 110px;
+    margin-top: -483px;
+    margin-bottom: 30px;
+    margin-right: 1000px;
+    background-color: green;  
+}
+h2{
+    border: 10px rgba(255, 170, 11, 0.781);
+    background: rgba(255, 170, 11, 0.781);
+    padding-top: 2;
+    padding-bottom: 380px;
+    padding-left: 350px;
+    margin-bottom: 20px;
+    margin-left: 350px;
+    background-color: rgba(255, 170, 11, 0.781);  
+}
+h3{
+    border: 5px solid gray;
+    margin-top: -10px;
+    margin-left: 350px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    padding-left: 400px;
+    padding-bottom: -90;
+    background: gray;
+}
+footer{
+    border: 10px solid orange;
+    margin-top: -15px;
+    margin-bottom: 5px;
+    padding-top: 40px;
+    background: orange;
+}
