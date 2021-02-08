@@ -1,0 +1,41 @@
+header{
+    border: 10px solid turquoise;
+    background: turquoise;
+}
+
+div{
+    border: 10px rgba(255, 170, 11, 0.781);
+    background: rgba(255, 170, 11, 0.781);
+    padding-top: 2;
+    padding-bottom: 380px;
+    padding-left: 350px;
+    margin-bottom: -430px;
+    margin-left: 400px;
+    background-color: rgba(255, 170, 11, 0.781);  
+}
+aside{
+    border: 10px solid  rgb(122, 187, 122);
+    background: rgb(122, 187, 122);
+    margin-right: 805px; 
+    margin-top: -10px;
+    margin-bottom: 80;
+    padding-bottom: 450px;
+}
+section{
+    border: 5px solid gray;
+    margin-top: -90px;
+    margin-left: 400px;
+    margin-bottom: 25px;
+    padding-top: 20px;
+    padding-left: 400px;
+    padding-bottom: -70;
+    background: gray;
+}
+footer{
+    border: 10px solid orange;
+    margin-top: 5px;
+    margin-bottom: 80px;
+    padding-top: -5px;
+    padding-bottom: -50;
+    background: orange;
+}

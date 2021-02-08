@@ -1,0 +1,16 @@
+h1 {
+  color: rgb(189, 21, 29);
+  margin-left: 100px;
+}
+table, th, td{
+    width: 10;
+    height: 50;
+    border: 2px solid black;
+    color: black !important;
+}
+body{
+    background-color: rgb(104, 104, 192);
+}
+footer{
+    border: dotted black;
+}
